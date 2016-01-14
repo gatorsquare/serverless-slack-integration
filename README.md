@@ -105,3 +105,15 @@
   
 * 正常來說，接下來就可以在 Slack 頻道中使用新的指令了。（OS：但是人生總是有那麼多不正常的狀況，所以 good luck on coding and debugging!）  
   
+#參考資料
+* **Serverless Slack Integrations with node.js, AWS Lambda, and AWS API Gateway**
+  http://www.ryanray.me/serverless-slack-integrations
+
+* **Learn AWS API Gateway with the Slack Police**
+  https://medium.com/@farski/learn-aws-api-gateway-with-the-slack-police-ca8d636e9fc0#.wbwqkmud3
+
+* **Serverless! 使用 AWS 開發 Slack Slash Commands**
+  https://medium.com/@amowu/serverless-使用-aws-開發-slack-slash-commands-3077d0236270#.4u1eybmf3
+
+* **Lessons learned the hard way from trying to make a simple Slack bot using AWS Lambda**
+  http://codeshal.tumblr.com/post/135337259118/lessons-learned-the-hard-way-from-trying-to-make-a
