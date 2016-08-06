@@ -1,5 +1,5 @@
 #簡介
-使用 AWS 的 Lambda 及 API Gateway，以 Severless 的方式在 Slack 頻道中建立 slash command。
+使用 AWS 的 Lambda 及 API Gateway，以 Serverless 的方式在 Slack 頻道中建立 slash command。
 
 ##需要了解的東西：
 * **Slack Slash Commands**   https://api.slack.com/slash-commands
