@@ -32,7 +32,7 @@
   ```
   exports.handler = function(event, context) {
   context.succeed("Hello World!");
-};
+  };
   ```
   
   - 拉到下方，Role 選擇 lambda_basic_execution，這時會跳出另一個視窗，按下 Allow 即可。
